@@ -1,2 +1,2 @@
 # microservice-starter-kit
-Microservice Starter Kit --- production ready prototype
+Microservice Starter Kit --- production grade + cloud ready prototype
