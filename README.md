@@ -1,2 +1,2 @@
-# microservice-starter-kit
-Microservice Starter Kit --- production grade + cloud ready prototype
+# fs-hack-agent
+File System hacker agent -- to compromise the security of the target FS.
